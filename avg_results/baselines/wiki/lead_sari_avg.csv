@@ -1,0 +1,6 @@
+,file,name,sari
+0,/home/fatimamh/Documents/ssr_results/baselines/lead/sari.csv,ft,50.10292184057219
+1,/home/fatimamh/Documents/ssr_results/baselines/hipo/bm/sari.csv,ssr-bm,49.696913750564846
+2,/home/fatimamh/Documents/ssr_results/baselines/hipo/ps/sari.csv,ssr-ps,49.629988051641426
+3,/home/fatimamh/Documents/ssr_results/baselines/hipo/rd/sari.csv,ssr-rd,49.256426489298775
+4,/home/fatimamh/Documents/ssr_results/baselines/hipo/st/sari.csv,ssr-st,49.18284159443781

@@ -1,0 +1,6 @@
+,file,name,sari
+0,/home/fatimamh/Documents/ssr_results/fine_tuned/spk/mt5/sari.csv,ft,51.91564463184994
+1,/home/fatimamh/Documents/ssr_results/component/se_re/spk/mt5/bm/sari.csv,ssr-bm,30.652940230824118
+2,/home/fatimamh/Documents/ssr_results/component/se_re/spk/mt5/ps/sari.csv,ssr-ps,30.62855627763188
+3,/home/fatimamh/Documents/ssr_results/component/se_re/spk/mt5/rd/sari.csv,ssr-rd,30.550285024986234
+4,/home/fatimamh/Documents/ssr_results/component/se_re/spk/mt5/st/sari.csv,ssr-st,30.76386406714443

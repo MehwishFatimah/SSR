@@ -1,0 +1,6 @@
+,file,name,r1_f,r1_p,r1_r,r2_f,r2_p,r2_r,rL_f,rL_p,rL_r
+0,/home/fatimamh/Documents/ssr_results/fine_tuned/spk/mbart/rouge.csv,ft,15.64595364,28.22880795,11.3217947,1.422569536,2.658549669,1.022456954,9.214576159,17.04751656,6.622152318
+1,/home/fatimamh/Documents/ssr_results/component/se_re/spk/mbart/bm/rouge.csv,ssr-bm,4.613251656,6.81689404,3.734768212,1.052324503,1.664986755,0.83392053,3.991668874,5.96584106,3.216225166
+2,/home/fatimamh/Documents/ssr_results/component/se_re/spk/mbart/ps/rouge.csv,ssr-ps,4.492450331,6.647781457,3.637993377,1.059119205,1.659092715,0.84186755,3.882622517,5.815377483,3.130953642
+3,/home/fatimamh/Documents/ssr_results/component/se_re/spk/mbart/rd/rouge.csv,ssr-rd,4.610847682,6.64897351,3.764251656,1.103887417,1.658403974,0.885794702,3.994205298,5.821403974,3.247218543
+4,/home/fatimamh/Documents/ssr_results/component/se_re/spk/mbart/st/rouge.csv,ssr-st,4.469516556,6.393933775,3.664370861,1.014940397,1.504834437,0.822370861,3.859410596,5.563377483,3.15413245

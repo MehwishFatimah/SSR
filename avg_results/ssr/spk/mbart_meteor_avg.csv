@@ -1,0 +1,5 @@
+,file,name,ms
+0,/home/fatimamh/Documents/ssr_results/fine_tuned/spk/mbart/meteor.csv,ft,0.0822046357615894
+1,/home/fatimamh/Documents/ssr_results/ssr/spk/mbart/bm/meteor.csv,ssr-bm,0.1608723178807947
+2,/home/fatimamh/Documents/ssr_results/ssr/spk/mbart/rd/meteor.csv,ssr-rd,0.15982688741721854
+3,/home/fatimamh/Documents/ssr_results/ssr/spk/mbart/st/meteor.csv,ssr-st,0.15924245033112583

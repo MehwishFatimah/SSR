@@ -1,0 +1,6 @@
+,file,name,ms
+0,/home/fatimamh/Documents/ssr_results/fine_tuned/wiki/mt5/meteor.csv,ft,0.1556675175370226
+1,/home/fatimamh/Documents/ssr_results/ssr/wiki/mt5/bm/meteor.csv,ssr-bm,0.13771178877630552
+2,/home/fatimamh/Documents/ssr_results/ssr/wiki/mt5/ps/meteor.csv,ssr-ps,0.13869208885424789
+3,/home/fatimamh/Documents/ssr_results/ssr/wiki/mt5/rd/meteor.csv,ssr-rd,0.13909885035074043
+4,/home/fatimamh/Documents/ssr_results/ssr/wiki/mt5/st/meteor.csv,ssr-st,0.1354553000779423

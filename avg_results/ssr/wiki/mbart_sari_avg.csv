@@ -1,0 +1,6 @@
+,file,name,sari
+0,/home/fatimamh/Documents/ssr_results/fine_tuned/wiki/mbart/sari.csv,ft,56.228965163339986
+1,/home/fatimamh/Documents/ssr_results/ssr/wiki/mbart/bm/sari.csv,ssr-bm,59.73465798672438
+2,/home/fatimamh/Documents/ssr_results/ssr/wiki/mbart/ps/sari.csv,ssr-ps,59.66500847701518
+3,/home/fatimamh/Documents/ssr_results/ssr/wiki/mbart/rd/sari.csv,ssr-rd,59.540319588135475
+4,/home/fatimamh/Documents/ssr_results/ssr/wiki/mbart/st/sari.csv,ssr-st,59.549826328158154

@@ -1,0 +1,6 @@
+,file,name,bs_p,bs_r,bs_f
+0,/home/fatimamh/Documents/ssr_results/fine_tuned/wiki/mbart/bert.csv,ft,71.1856780982072,69.33893413873723,70.16051052221367
+1,/home/fatimamh/Documents/ssr_results/ssr/wiki/mbart/bm/bert.csv,ssr-bm,73.11257209664849,67.93376851130164,70.2817283710055
+2,/home/fatimamh/Documents/ssr_results/ssr/wiki/mbart/ps/bert.csv,ssr-ps,73.15155689789549,67.93236749805153,70.2974298519096
+3,/home/fatimamh/Documents/ssr_results/ssr/wiki/mbart/rd/bert.csv,ssr-rd,73.17115159781757,67.89019290724853,70.28256819953222
+4,/home/fatimamh/Documents/ssr_results/ssr/wiki/mbart/st/bert.csv,ssr-st,73.00431995323461,67.86642634450494,70.19069563522993

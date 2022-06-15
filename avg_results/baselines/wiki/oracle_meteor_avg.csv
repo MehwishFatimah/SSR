@@ -1,0 +1,6 @@
+,file,name,ms
+0,/home/fatimamh/Documents/ssr_results/baselines/oracle/meteor.csv,ft,0.15980555339049105
+1,/home/fatimamh/Documents/ssr_results/baselines/hipo/bm/meteor.csv,ssr-bm,0.15564935697583787
+2,/home/fatimamh/Documents/ssr_results/baselines/hipo/ps/meteor.csv,ssr-ps,0.1600377240841777
+3,/home/fatimamh/Documents/ssr_results/baselines/hipo/rd/meteor.csv,ssr-rd,0.15311638737334374
+4,/home/fatimamh/Documents/ssr_results/baselines/hipo/st/meteor.csv,ssr-st,0.15377708495713172
