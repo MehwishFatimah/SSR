@@ -1,0 +1,17 @@
+************
+Test: Mann Whitney U
+Metric: sari
+Dataset: spk
+Model: mt5
+Model1-embedding: SSR-ps
+Model2: finetuned
+************
+Alpha = 0.05
+Statistics = 1314149.0000
+P-value = 0.000000000
+
+Different distribution (reject H0)
+SSR-ps > finetuned 
+U = 1314149.0, p < 0.05
+************
+

@@ -1,0 +1,17 @@
+************
+Test: Mann Whitney U
+Metric: bleu
+Dataset: spk
+Model: mt5
+Model1-embedding: SSR-st
+Model2: finetuned
+************
+Alpha = 0.0010
+Statistics = 12433695.5000
+P-value = 0.000000000
+
+Different distribution (reject H0)
+SSR-st > finetuned 
+U = 12433695.5, p < 0.001
+************
+

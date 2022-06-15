@@ -1,0 +1,17 @@
+************
+Test: Mann Whitney U
+Metric: meteor
+Dataset: spk
+Model: mbart
+Model1-embedding: SSR-st
+Model2: finetuned
+************
+Alpha = 0.05
+Statistics = 2175061.0000
+P-value = 0.000000000
+
+Different distribution (reject H0)
+SSR-st > finetuned 
+U = 2175061.0, p < 0.05
+************
+

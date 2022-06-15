@@ -1,0 +1,15 @@
+************
+Test: Mann Whitney U
+Metric: meteor
+Dataset: spk
+Model: mt5
+Model1-embedding: SSR-ps
+Model2: finetuned
+************
+Alpha = 0.05
+Statistics = 1069113.0000
+P-value = 0.998465988
+
+Same distribution (fail to reject H0)
+************
+

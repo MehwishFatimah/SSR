@@ -1,0 +1,17 @@
+************
+Test: Mann Whitney U
+Metric: rouge
+Dataset: wiki
+Model: mt5
+Model1-embedding: SSR-rd
+Model2: finetuned
+************
+Alpha = 0.05
+Statistics = 214083804.5000
+P-value = 0.000000000
+
+Different distribution (reject H0)
+SSR-rd > finetuned 
+U = 214083804.5, p < 0.05
+************
+

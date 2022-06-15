@@ -1,0 +1,17 @@
+************
+Test: Mann Whitney U
+Metric: bleu
+Dataset: wiki
+Model: mbart
+Model1-embedding: SSR-ps
+Model2: finetuned
+************
+Alpha = 0.0010
+Statistics = 142045542.5000
+P-value = 0.000000000
+
+Different distribution (reject H0)
+SSR-ps > finetuned 
+U = 142045542.5, p < 0.001
+************
+

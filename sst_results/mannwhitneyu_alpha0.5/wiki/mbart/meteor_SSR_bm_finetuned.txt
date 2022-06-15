@@ -1,0 +1,15 @@
+************
+Test: Mann Whitney U
+Metric: meteor
+Dataset: wiki
+Model: mbart
+Model1-embedding: SSR-bm
+Model2: finetuned
+************
+Alpha = 0.05
+Statistics = 11052270.5000
+P-value = 1.000000000
+
+Same distribution (fail to reject H0)
+************
+
