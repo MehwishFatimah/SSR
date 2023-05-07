@@ -1,6 +1,0 @@
-,file,name,sari
-0,/home/fatimamh/Documents/ssr_results/fine_tuned/wiki/mt5/sari.csv,ft,55.451832264718135
-1,/home/fatimamh/Documents/ssr_results/ssr/wiki/mt5/bm/sari.csv,ssr-bm,57.5111275582812
-2,/home/fatimamh/Documents/ssr_results/ssr/wiki/mt5/ps/sari.csv,ssr-ps,57.33022687076759
-3,/home/fatimamh/Documents/ssr_results/ssr/wiki/mt5/rd/sari.csv,ssr-rd,57.59167784436936
-4,/home/fatimamh/Documents/ssr_results/ssr/wiki/mt5/st/sari.csv,ssr-st,57.31245698436575

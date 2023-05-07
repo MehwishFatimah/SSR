@@ -1,6 +1,0 @@
-,file,name,bs_f,bs_p,bs_r
-0,/home/fatimamh/Documents/ssr_results/baselines/textrank/bert.csv,ft,63.73039556,65.70881333,62.02177514
-1,/home/fatimamh/Documents/ssr_results/baselines/hipo/bm/bert.csv,ssr-bm,63.70062744,65.44157833,62.19561185
-2,/home/fatimamh/Documents/ssr_results/baselines/hipo/ps/bert.csv,ssr-ps,63.96966485,65.62707132,62.53034684
-3,/home/fatimamh/Documents/ssr_results/baselines/hipo/rd/bert.csv,ssr-rd,63.54376072,65.32994739,62.00272798
-4,/home/fatimamh/Documents/ssr_results/baselines/hipo/st/bert.csv,ssr-st,63.66880943,65.40224279,62.17213952

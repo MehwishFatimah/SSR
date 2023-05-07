@@ -1,5 +1,0 @@
-,file,name,bs_f,bs_p,bs_r
-0,/home/fatimamh/Documents/ssr_results/fine_tuned/spk/mbart/bert.csv,ft,62.07959603,64.65823841,59.74623841
-1,/home/fatimamh/Documents/ssr_results/ssr/spk/mbart/bm/bert.csv,ssr-bm,64.9372649,65.73929139,64.17262914
-2,/home/fatimamh/Documents/ssr_results/ssr/spk/mbart/rd/bert.csv,ssr-rd,65.0337351,65.88733775,64.2247947
-3,/home/fatimamh/Documents/ssr_results/ssr/spk/mbart/st/bert.csv,ssr-st,64.88572848,65.71335762,64.10033775
